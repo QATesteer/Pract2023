@@ -27,7 +27,7 @@ writedata = ExcelOperationBasics.writeData(path,'Sheet1',rowNo=11,columnNo =12,d
 # write = ExcelOperationBasics.writeData(path,'Sheet1', rowNo=9, columnNo=2,data= "Waghade")
 # print(write)
 
-#################TO Print all the data from Excel
+#################TO Print all the data from Excelll
 
 # for r in range(1,rows+1):
 #     for c in range(1,columns+1):
